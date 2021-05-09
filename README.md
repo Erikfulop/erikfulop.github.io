@@ -43,7 +43,10 @@
 					<div class="le_almenu"><img src="CSS/kepek/instagram.png">Instagram</div>
 					<div class="le_almenu"><img src="CSS/kepek/facebook2.png">Facebook</div>
 					<div class="le_almenu"><img src="CSS/kepek/snapchat.jpg">Snapchat</div></a>
-				</div>
+				</div>![instagram](https://user-images.githubusercontent.com/81759783/117587740-a5e0ae80-b11f-11eb-8b9d-340e744c8701.png)
+![facebook2](https://user-images.githubusercontent.com/81759783/117587743-aaa56280-b11f-11eb-85aa-e4418da02019.png)
+![snapchat](https://user-images.githubusercontent.com/81759783/117587747-ad07bc80-b11f-11eb-9608-9133df7866f6.jpg)
+
 
 			</div>
 
